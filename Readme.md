@@ -1,4 +1,4 @@
-# Quizziz Hack
+# Quizizz Hack
 Here is the javascript code which help you to show the answers during the quiz. 
 You can follow simple steps to use this script:
 - Copy the javascript code 
